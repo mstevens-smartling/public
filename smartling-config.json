@@ -8,8 +8,8 @@
 
      "resourceSets": [
          {
-            "type"      : "javaProperties",
-            "pathRegex" : ".*\\.properties",
+            "type"      : "json",
+            "pathRegex" : ".*\\.json",
             "translationPathExpression" : "translated/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "authorizeContent" : true
          } 
