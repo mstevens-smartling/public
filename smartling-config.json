@@ -1,8 +1,8 @@
 {
     "locales": [
          {
-             "smartling" : "es",
-             "application" : "es"
+             "smartling" : "es-US",
+             "application" : "es-US"
          }
      ],
 
